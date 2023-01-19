@@ -1,4 +1,4 @@
-from forgecore.commands import DjangoClickAliasCommand
+from forgecore.cli import DjangoClickAliasCommand
 
 from forgetailwind.cli import cli
 
