@@ -4,6 +4,21 @@ Use [Tailwind CSS](https://tailwindcss.com/) with [Django](https://www.djangopro
 
 Made possible by the [Tailwind standalone CLI](https://tailwindcss.com/blog/standalone-cli).
 
+```console
+$ forge tailwind
+Usage: forge tailwind [OPTIONS] COMMAND [ARGS]...
+
+  Tailwind CSS
+
+Options:
+  --help  Show this message and exit.
+
+Commands:
+  compile  Compile a Tailwind CSS file
+  init     Install Tailwind, create a tailwind.config.js...
+  update   Update the Tailwind CSS version
+```
+
 ## Installation
 
 First, install `forge-tailwind` from [PyPI](https://pypi.org/project/forge-tailwind/):
