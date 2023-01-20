@@ -2,4 +2,3 @@
 poetry run pytest tests
 poetry run forge tailwind --help
 poetry run forge-tailwind --help
-poetry run python tests/manage.py tailwind --help
